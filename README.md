@@ -24,8 +24,8 @@ Follow these steps to set up the project:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone <repo_url>
-   cd TE_MiniProject
+   git clone https://github.com/DipeshMPatel/Crude_Oil_and_Carbon_Black_Price_Forcasting.git
+   cd Crude_Oil_and_Carbon_Black_Price_Forcasting
 
 2. **Create a virtual environment** (recommended):
    - For **Windows**:
