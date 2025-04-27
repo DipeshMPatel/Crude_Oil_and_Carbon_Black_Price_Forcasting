@@ -1,0 +1,29 @@
+# Ignore Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment folders
+venv/
+
+# Ignore environment configuration files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE settings (for VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignore system files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Ignore log files and databases
+*.log
+*.sqlite3
+
+# Ignore dependency file for Conda environments
+environment.yml
+

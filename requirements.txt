@@ -1,0 +1,15 @@
+ipykernel
+pandas==1.5.3
+numpy>=1.23.2,<1.25
+scikit-learn==1.2.2
+matplotlib==3.7.1
+tensorflow==2.14.0
+xgboost
+torch
+torchvision
+torchaudio
+pytorch-lightning==1.9
+pytorch-forecasting
+torchmetrics
+arch
+seaborn
